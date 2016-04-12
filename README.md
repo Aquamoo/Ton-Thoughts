@@ -1,0 +1,2 @@
+# Ton-Thoughts
+My blog
