@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#game-screen {
+    display: block;
+}
+
+#gameOver, #playHUD {
+    position: absolute;
+    visibility: hidden;
+}
+    
+h1, h2, h3 {
+    font-family: 'Butcherman', cursive;
+    color: black;
+    text-align: center;
+    margin-left: 504px;
+}
+
+.title {
+    font-size: 75px;
+    margin-bottom: 0px;
+}
+
+#restartButton {
+    border: 2px solid black;
+}
+
+#scoreboard {
+    margin: 0px;
+}
+
+#scoreboard2 {
+    margin: 0px; 
+}

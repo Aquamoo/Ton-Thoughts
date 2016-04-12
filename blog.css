@@ -1,0 +1,29 @@
+body {
+    font-family: 'Slabo 27px', serif;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main {
+    flex: 1 0 auto;
+}
+
+/*Blog Posts*/
+
+.blog-post {
+    font-family: 'Slabo 27px', serif;
+    margin-bottom: 60px;
+}
+
+.blog-post-title {
+    font-family: 'Slabo 27px', serif;
+    margin-bottom: 5px;
+    font-size: 40px;
+}
+
+.blog-post-meta {
+    font-family: 'Slabo 27px', serif;
+    margin-bottom: 20px;
+    color: #999;
+    font-style:italic;
+}
